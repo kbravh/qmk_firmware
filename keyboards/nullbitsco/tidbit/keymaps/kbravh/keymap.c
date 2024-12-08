@@ -16,7 +16,7 @@
 
 // Inspired by https://github.com/propmok/qmk_firmware/
 
-// To compile, run `qmk compile -kb nullbitsco/tifbit -km kbravh -e CONVERT_TO=bit_c_pro`
+// To compile, run `qmk compile -kb nullbitsco/tidbit -km kbravh -e CONVERT_TO=bit_c_pro`
 // See: https://github.com/nullbitsco/docs/blob/main/bit-c-pro/user_guide_en.md#flashing_firmware
 
 #include QMK_KEYBOARD_H
